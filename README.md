@@ -148,16 +148,18 @@ me.say_hi()
 
 ---
 
-<!-- FEATURED PROJECTS -->
 ## 🏆 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/danil-dev-pro/project-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danil-dev-pro&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F7&icon_color=3BA4F7&text_color=FFFFFF" />
+<a href="https://github.com/danil-dev-pro/python-report-automation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danil-dev-pro&repo=python-report-automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F7&icon_color=3BA4F7&text_color=FFFFFF" />
 </a>
-<a href="https://github.com/danil-dev-pro/project-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danil-dev-pro&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F7&icon_color=3BA4F7&text_color=FFFFFF" />
+<a href="https://github.com/danil-dev-pro/email-automation-python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danil-dev-pro&repo=email-automation-python&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F7&icon_color=3BA4F7&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/danil-dev-pro/-web-scraper-google-sheets-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danil-dev-pro&repo=-web-scraper-google-sheets-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F7&icon_color=3BA4F7&text_color=FFFFFF" />
 </a>
 
 </div>
