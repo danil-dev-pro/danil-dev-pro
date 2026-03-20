@@ -147,7 +147,7 @@ me.say_hi()
 </div>
 
 ---
-
+<!-- FEATURED PROJECTS -->
 ## 🏆 Featured Projects
 
 <div align="center">
@@ -158,8 +158,11 @@ me.say_hi()
 <a href="https://github.com/danil-dev-pro/email-automation-python">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=danil-dev-pro&repo=email-automation-python&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F7&icon_color=3BA4F7&text_color=FFFFFF" />
 </a>
-<a href="https://github.com/danil-dev-pro/-web-scraper-google-sheets-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danil-dev-pro&repo=-web-scraper-google-sheets-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F7&icon_color=3BA4F7&text_color=FFFFFF" />
+
+<br/>
+
+<a href="https://github.com/danil-dev-pro/web-scraper-google-sheets">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danil-dev-pro&repo=web-scraper-google-sheets&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F7&icon_color=3BA4F7&text_color=FFFFFF" />
 </a>
 
 </div>
