@@ -152,18 +152,27 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/danil-dev-pro/python-report-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danil-dev-pro&repo=python-report-automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F7&icon_color=3BA4F7&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/danil-dev-pro/email-automation-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danil-dev-pro&repo=email-automation-python&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F7&icon_color=3BA4F7&text_color=FFFFFF" />
-</a>
-
-<br/>
-
-<a href="https://github.com/danil-dev-pro/web-scraper-google-sheets">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danil-dev-pro&repo=web-scraper-google-sheets&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F7&icon_color=3BA4F7&text_color=FFFFFF" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/danil-dev-pro/python-report-automation">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=danil-dev-pro&repo=python-report-automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F7&icon_color=3BA4F7&text_color=FFFFFF" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/danil-dev-pro/email-automation-python">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=danil-dev-pro&repo=email-automation-python&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F7&icon_color=3BA4F7&text_color=FFFFFF" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/danil-dev-pro/web-scraper-google-sheets">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=danil-dev-pro&repo=web-scraper-google-sheets&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F7&icon_color=3BA4F7&text_color=FFFFFF" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
