@@ -42,7 +42,7 @@ me = PythonDeveloper()
 me.say_hi()
 ```
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="320" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" />
 
 - 🔭 I specialize in **Telegram Bots, Web Scraping & Automation**
 - 🏆 Successfully delivered **50+ freelance projects**
